@@ -1,5 +1,5 @@
 
-The files in this folders are Singular (W. Decker, G.-M. Greuel, G. Pfister and H. Schonemann, https://www.singular.uni-kl.de) codes for the examples shown the article
+The files in this folder are Singular (W. Decker, G.-M. Greuel, G. Pfister and H. Schonemann, https://www.singular.uni-kl.de) codes for the examples shown the article
 
 Ayse Sharland and Jacob Smith, "Fitting Ideals without a Presentation", Journal of Algebra and Computation, Vol. 36, No. 02, pp. 153-171 (2026). https://doi.org/10.1142/S0218196726500025
 
